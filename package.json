@@ -1,0 +1,22 @@
+{
+  "name": "five-squared",
+  "version": "1.0.0",
+  "description": "a small library to run pimironi 5x5 in johnny-5",
+  "main": "five-squared.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wildfireone/five-squared.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wildfireone/five-squared/issues"
+  },
+  "homepage": "https://github.com/wildfireone/five-squared#readme",
+  "dependencies": {
+    "johnny-five": "^1.3.1"
+  }
+}
